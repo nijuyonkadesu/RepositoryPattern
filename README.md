@@ -14,6 +14,15 @@ repository pattern the data layer is abstracted from the rest of the app.
 Repositories act as mediators between different data sources, such as persistent
 models, web services, and caches and the rest of the app.
 
+## Previews
+<p align="center">
+<img src="previews/ss (1).png" alt="drawing" width="270px" />
+<img src="previews/ss (2).png" alt="drawing" width="270px" /></br>
+</p>
+
+## Download APK
+Go to the [Releases](https://github.com/nijuyonkadesu/RepositoryPattern/releases) to download the latest APK
+
 Pre-requisites
 --------------
 
